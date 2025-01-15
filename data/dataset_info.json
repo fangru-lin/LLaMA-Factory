@@ -2,6 +2,9 @@
   "identity": {
     "file_name": "identity.json"
   },
+   "train_addition": {
+    "file_name": "train_addition.json"
+  },
   "alpaca_en_demo": {
     "file_name": "alpaca_en_demo.json"
   },
